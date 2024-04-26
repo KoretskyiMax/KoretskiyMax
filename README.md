@@ -6,6 +6,6 @@
 
 <h3 align="center">Connect with me:</h3>
 
-[<img align="center" src="https://www.linkedin.com/in/themem0ry/" alt="LinkedIn page" />](https://www.linkedin.com/in/themem0ry/)
+[<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn page" />](https://www.linkedin.com/in/themem0ry/)
 
 </div>
